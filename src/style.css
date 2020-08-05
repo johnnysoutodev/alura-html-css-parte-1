@@ -1,5 +1,7 @@
 body {
     background-color: #ccc;
+    margin: 0;
+    padding: 0;
 }
 
 
@@ -16,4 +18,9 @@ h1 {
 
 em strong {
     color: #ff0000;
+}
+
+#banner {
+    width: 100%;
+
 }
