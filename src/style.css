@@ -33,6 +33,10 @@ em strong {
     background-color: #fff;
 }
 
+h2 {
+    text-align: center;
+}
+
 .itens {
     font-style: italic;
 }
