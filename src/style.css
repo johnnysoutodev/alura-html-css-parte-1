@@ -1,7 +1,7 @@
 body {
     background-color: #ccc;
-    margin: 0;
-    padding: 0;
+    /* margin: 0;
+    padding: 0; */
 }
 
 
@@ -23,4 +23,8 @@ em strong {
 #banner {
     width: 100%;
 
+}
+
+.itens {
+    font-style: italic;
 }
